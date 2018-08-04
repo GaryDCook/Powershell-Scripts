@@ -1,0 +1,15 @@
+
+
+<#
+Used to add sender domain to whitelist in Exchange Edge
+Josh Hensley 11.22.2017
+#>
+
+$domain = read-host "Enter domain to whitelist on an Edge server (ie: *.a10networks.com)"
+
+
+
+$list = (Get-ContentFilterConfig).BypassedSenderDomains
+$list.add($domain)
+set-contentfilterconfig -BypassedSenderDomains:$list
+
