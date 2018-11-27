@@ -1,0 +1,9 @@
+﻿<Project>
+  <Version>1.1</Version>
+  <FileID>5bf68608-a7df-4b51-8f5a-d72d8c26294c</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File ReferenceName="" Build="0">Startup.pss</File>
+  </Files>
+</Project>

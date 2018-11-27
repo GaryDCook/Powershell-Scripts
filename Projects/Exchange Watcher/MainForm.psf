@@ -1,0 +1,464 @@
+﻿<File version="2">
+  <FileID>dee3acc7-9e05-45d2-930f-4f4f53f5818e</FileID>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB79SURBVHhe7dwHlFzXfd9xptpxnN77iWyl914d
+pzmJ02RbiizJkqITOXESW3ESxVGiNDuJlMgpsqVDqsSWY3WCJEiiY9G3YIEFFlhgFx1EIwrFKqpa
+sn1zf7N76cflgAAZQ0fQ/Xzf+RzsvOmzy33/92aWd0iSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJOm6veWlL/36tW97
++zvWvuvd71v7zh+6EwC4Dd35nh9Z+6Y3fe/ar/nqr1q7so2/fl/3kpdMfHjNunL0/BPl6IUny5Fz
+jwMAt6HFi9mOP1q+7y1vLSub+euXPf9cYffhh8rO+TNl1/xZAGCcQy/Ci7nei7xOtuMzxy6XmfkT
+Nx4A7rzrfWtPXH66DgDnyuRCc36M4fkA0J+pI+eXN7QHz9yUXGf66IWy+1DdyR5z/jh76g55rrOn
+bpfHnT9OBoA8ttH9LT1cZhdO33gAeNe776oDwKfqFS+M7nDqSH2Ch06XqYWH6lBwqd7oxbru4TJd
+bzjnP8u4dautvszNXOd5vYDrD+/r//t+AejZ3qWLZdPkYrl3y/5y/8SBsvZGth4oD2yfLxOzJ8p9
+7Tor69bvPlLW76rqv+t2LjzrevdtnSvb9p2slz/4zLr7tx0cXX7dzsMj+TrrRudV927eX7bMHK+P
+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
+dVBZurR8ut1W+3f566dGp1f/2x5TW5fbGd0eANzA8ctPl4m9J8rO/afrzuX5MnnoXNl79FLZX/fs
+9y1dGf2b01k/VU0fPl93kI+VHXN1x7luT6frhj/n5d/hdWYXHx5dvp23fJ0zo39H15mvt1dvK5cf
+vU2QtxLq1+0x5LxtM/Vx1evkz/pPXP1MOXziws0NANc+XcpS3Tife/yLpV6vXP1sKdc+V8pjXyjl
+0epq/fpKXX+lXq792y73zLpbod523VaPvs79De//WZd7sW7lYwfgK0q2Q9kmLV74VB0Ibuzo+afL
+2UeXt6vHHv5Mvd7TYy83dLRe5sSVz5Vrdft66tpPjG5j3OWepT6epUufLg/XnflT1z5TTtaN88LJ
+izczANy1NgPAxSe/UN7xw+8v3/rK7/gy89ox6wDgS+tbqm/79teWV7zm9ctefQP1Mi9/1etG122n
+n3OZ1UaXWb5Ornvz13n96DoTM0fKxU/+ZB0ALt38APBI3ct/2StenSsAALehj94/MTqC/4IGgBxu
+ePXrv/M5NwYA3B7uXr9z9Pa8AQAAOmIAAIAOGQAAoEMGAADo0JduAPjd1Z9b8btW1n0l+Zrqz1bt
+OQ796eqrq3HXeyFyG2+v/k/1qpV1t6PfU417neI3V+Ou82L87Sqv1fur37iyDoCRWz8A/Ilqc/WF
+qi0/XW2t/kw17jpfTv5ydXhFNlzjLhO/t3q+5eurcdd7IX5p9USV5UeqcZe5HUxU11u+vxp3nRfj
+f1dt+cPVuMt8JfnF1YYqP6tvXlkHcB23dgD449Wnq7bsqzIMPLly+n9V46735eSvV235HdW4y0SO
+cHyxynKxyvNs7q9+bTXuei/EL6nOVll+uBp3mdtBNlJZfqLaXg1fq5dX467zYryk+sYVX7uy7ivd
+5SrLD66cBriOWzcA/LwqG/wsP1n9o6qd95uq9VUOZ//y6j+t+ANVzv/1g3W/f2Xd61ZO57BurvPW
+6i9Uf6rK+n9c/aLqH1bD+8pRhv9S/dfqe6rhhvg1Va6bw+m/rPrnK6ezwcj5L63urdryo1Vu5xuq
+dhtNBoB2lCPPa/X5v6L6z1X2cL97ZV1kg5d1eYzt8PdXVX+nyvr4J1Ves+zhtQHgv1W/tfoPVR7z
+8G2VX1XlueWxRm5jeLQlg8T3VblehrQMNrlMbuu3Ve1ykSMbWZ/z87jfUuV6ebtjeHuvr3JfeY5/
+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
+GQAAoEMGAADokAEAADpkAACADhkAAKBDBgAA6JABAAA6ZAAAgA4ZAACgQwYAAOiQAQAAOmQAAIAO
+GQAAoEMGAADokAEAADpkAACADhkAAKBDBgAA6JABAAA6ZAAAgA4ZAACgQwYAAOiQAQAAOmQAAIAO
+GQAAoEMGAADokAEAADpkAACADhkAAKBDBgAA6JABAAA6ZAAAgA4ZAACgQwYAAOiQAQAAOmQAAIAO
+GQAAoEMGAADokAEAADpkAACADhkAAKBDBgAA6JABAAA6ZAAAgA4ZAACgQwYAAOiQAQAAOmQAAIAO
+GQAAoEMvegB41eve+JwbAwBuDy9uAPhcKX/vNW94zo0BALeHj6/b8cIHgNPXPlO2zy6NpgcA4PYz
+f+pqeeixn7i5AeDOu9639vEvZAD4fLn4VBlNDgDA7eehx75Yzj3x02XpoUduPAC87e3v2Hr+6pOj
+aQEAuL0tPXSt7Dt07MYDgCRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJUh/dccf/A9h9BUCJU6L0AAAAAElFTkSu
+QmCC</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="MainForm" children="Controls">
+    <Property name="BackColor">Black</Property>
+    <Property name="ClientSize">1278, 657</Property>
+    <Property name="ForeColor">Lime</Property>
+    <Property name="Name">MainForm</Property>
+    <Property name="StartPosition">CenterScreen</Property>
+    <Property name="Text">Quest Exchange Watcher</Property>
+    <Event name="Load">MainForm_Load</Event>
+    <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelCurrentExchangeEnvir" children="Controls">
+      <Property name="Font">Tahoma, 27.75pt, style=Bold</Property>
+      <Property name="Location">12, 9</Property>
+      <Property name="Name">labelCurrentExchangeEnvir</Property>
+      <Property name="Size">678, 53</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="Text">Current Exchange Environment</Property>
+    </Object>
+  </Object>
+  <Code><![CDATA[
+$MainForm_Load={
+#TODO: Initialize Form Controls here
+
+}
+
+
+
+
+
+#region Control Helper Functions
+function Load-Chart
+{
+<#
+	.SYNOPSIS
+		This functions helps you plot points on a chart
+
+	.DESCRIPTION
+		Use the function to plot points on a chart or add more charts to a chart control
+
+	.PARAMETER  ChartControl
+		The Chart Control you when to add points to
+
+	.PARAMETER  XPoints
+		Set the X Axis Points. These can be strings or numerical values.
+
+	.PARAMETER  YPoints
+		Set the Y Axis Points. These can be strings or numerical values.
+	
+	.PARAMETER  XTitle
+		Set the Title for the X Axis.
+
+	.PARAMETER  YTitle
+		Set the Title for the Y Axis.
+	
+	.PARAMETER  Title
+		Set the Title for the chart.
+	
+	.PARAMETER  ChartType
+		Set the Style of the chart. See System.Windows.Forms.DataVisualization.Charting.SeriesChartType Enum
+
+	.PARAMETER SeriesIndex
+		Set the settings of a particular Series and corresponding ChartArea
+
+	.PARAMETER TitleIndex
+		Set the settings of a particular Title
+	
+	.PARAMETER SeriesName
+		Set the settings of a particular Series using its name and corresponding ChartArea. 
+		The Series will be created if not found.
+		If SeriesIndex is set, it will replace the Series' name if the Series does not exist
+	
+	.PARAMETER Enable3D
+		The chart will be rendered in 3D.
+	
+	.PARAMETER Disable3D
+		The chart will be rendered in 2D.	
+	
+	.PARAMETER AppendNew
+		When this switch is used, a new ChartArea is added to Chart Control.
+
+	.LINK
+		http://www.sapien.com/blog/2011/05/05/primalforms-2011-designing-charts-for-powershell/
+	
+#>
+	Param( #$XPoints, $YPoints, $XTitle, $YTitle, $Title, $ChartStyle)
+	 	[ValidateNotNull()]
+		[Parameter(Position=1,Mandatory=$true)]
+  		[System.Windows.Forms.DataVisualization.Charting.Chart]$ChartControl
+		,
+		[ValidateNotNull()]
+		[Parameter(Position=2,Mandatory=$true)]
+  		$XPoints
+		,
+		[Parameter(Position=3,Mandatory=$true)]
+  		$YPoints
+		,
+		[Parameter(Position=4,Mandatory=$false)]
+  		[string]$XTitle
+		,
+		[Parameter(Position=5,Mandatory=$false)]
+  		[string]$YTitle
+		,
+		[Parameter(Position=6,Mandatory=$false)]
+  		[string]$Title
+		,
+		[Parameter(Position=7,Mandatory=$false)]
+  		[System.Windows.Forms.DataVisualization.Charting.SeriesChartType]$ChartType
+		,
+		[Parameter(Position=8,Mandatory=$false)]
+  		$SeriesIndex = -1
+		,
+		[Parameter(Position=9,Mandatory=$false)]
+  		$TitleIndex = 0,
+		[Parameter(Mandatory=$false)]
+  		[string]$SeriesName = $null,
+		[switch]$Enable3D,
+		[switch]$Disable3D,
+		[switch]$AppendNew)
+
+	$ChartAreaIndex = 0
+	if($AppendNew)
+	{
+		$name = "ChartArea " + ($ChartControl.ChartAreas.Count + 1).ToString();
+		$ChartArea = $ChartControl.ChartAreas.Add($name)
+		$ChartAreaIndex = $ChartControl.ChartAreas.Count - 1
+		
+		$name = "Series " + ($ChartControl.Series.Count + 1).ToString();
+		$Series = $ChartControl.Series.Add($name) 
+		$SeriesIndex = $ChartControl.Series.Count - 1
+
+		$Series.ChartArea = $ChartArea.Name
+		
+		if($Title)
+		{
+			$name = "Title " + ($ChartControl.Titles.Count + 1).ToString();
+			$TitleObj = $ChartControl.Titles.Add($Title)
+			$TitleIndex = $ChartControl.Titles.Count - 1	
+			$TitleObj.DockedToChartArea = $ChartArea.Name
+			$TitleObj.IsDockedInsideChartArea = $false
+		}
+	}
+	else
+	{
+		if($ChartControl.ChartAreas.Count -eq  0)
+		{
+			$name = "ChartArea " + ($ChartControl.ChartAreas.Count + 1).ToString();
+			[void]$ChartControl.ChartAreas.Add($name)
+			$ChartAreaIndex = $ChartControl.ChartAreas.Count - 1
+		}	
+		
+		if($ChartControl.Series.Count -eq 0)
+		{
+			if(-not $SeriesName)
+			{
+				$SeriesName = "Series " + ($ChartControl.Series.Count + 1).ToString();
+			}
+			
+			$Series = $ChartControl.Series.Add($SeriesName) 
+			$SeriesIndex = $ChartControl.Series.Count - 1
+			$Series.ChartArea = $ChartControl.ChartAreas[$ChartAreaIndex].Name
+		}
+		elseif($SeriesName)
+		{
+			$Series = $ChartControl.Series.FindByName($SeriesName)
+				
+			if($Series -eq $null)
+			{
+				if(($SeriesIndex -gt -1) -and ($SeriesIndex -lt $ChartControl.Series.Count))
+				{
+					$Series = $ChartControl.Series[$SeriesIndex]
+					$Series.Name = $SeriesName
+				}
+				else
+				{
+					$Series = $ChartControl.Series.Add($SeriesName)
+					$SeriesIndex = $ChartControl.Series.Count - 1
+				}
+				
+				$Series.ChartArea = $ChartControl.ChartAreas[$ChartAreaIndex].Name
+			}
+			else
+			{
+				$SeriesIndex = $ChartControl.Series.IndexOf($Series)
+				$ChartAreaIndex = $ChartControl.ChartAreas.IndexOf($Series.ChartArea)
+			}		
+		}
+	}
+	
+	if(($SeriesIndex -lt 0) -or ($SeriesIndex -ge $ChartControl.Series.Count))
+	{
+		$SeriesIndex = 0
+	}
+	
+	$Series = $ChartControl.Series[$SeriesIndex]
+	$Series.Points.Clear()
+	$ChartArea = $ChartControl.ChartAreas[$Series.ChartArea]
+	
+	if($Enable3D)
+	{
+		$ChartArea.Area3DStyle.Enable3D = $true
+	}
+	elseif($Disable3D)
+	{
+		$ChartArea.Area3DStyle.Enable3D = $false
+	}
+	
+	if($Title)
+	{
+		if($ChartControl.Titles.Count -eq 0)
+		{
+			#$name = "Title " + ($ChartControl.Titles.Count + 1).ToString();
+			$TitleObj = $ChartControl.Titles.Add($Title)
+			$TitleIndex = $ChartControl.Titles.Count - 1
+			$TitleObj.DockedToChartArea = $ChartArea.Name
+			$TitleObj.IsDockedInsideChartArea = $false
+		}
+		
+		$ChartControl.Titles[$TitleIndex].Text = $Title
+	}
+	
+	if($ChartType)
+	{
+		$Series.ChartType = $ChartType
+	}
+	
+	if($XTitle)
+	{
+		$ChartArea.AxisX.Title = $XTitle
+	}
+	
+	if($YTitle)
+	{
+		$ChartArea.AxisY.Title = $YTitle
+	}
+	
+	if($XPoints -isnot [Array] -or $XPoints -isnot [System.Collections.IEnumerable])
+	{
+		$array = New-Object System.Collections.ArrayList
+		$array.Add($XPoints)
+		$XPoints = $array
+	}
+	
+	if($YPoints -isnot [Array] -or $YPoints -isnot [System.Collections.IEnumerable])
+	{
+		$array = New-Object System.Collections.ArrayList
+		$array.Add($YPoints)
+		$YPoints = $array
+	}
+	
+	$Series.Points.DataBindXY($XPoints, $YPoints)
+
+}
+
+
+function Clear-Chart
+{
+<#
+	.SYNOPSIS
+		This function clears the contents of the chart
+
+	.DESCRIPTION
+		Use the function to remove contents from the chart control
+
+	.PARAMETER  ChartControl
+		The Chart Control to clear
+
+	.PARAMETER  LeaveSingleChart
+		Leaves the first chart and removes all others from the control
+	
+	.LINK
+		http://www.sapien.com/blog/2011/05/05/primalforms-2011-designing-charts-for-powershell/
+#>
+	Param (	
+	[ValidateNotNull()]
+	[Parameter(Position=1,Mandatory=$true)]
+  	[System.Windows.Forms.DataVisualization.Charting.Chart]$ChartControl
+	,
+	[Parameter(Position=2, Mandatory=$false)]
+	[Switch]$LeaveSingleChart
+	)
+	
+	$count = 0	
+	if($LeaveSingleChart)
+	{
+		$count = 1
+	}
+	
+	while($ChartControl.Series.Count -gt $count)
+	{
+		$ChartControl.Series.RemoveAt($ChartControl.Series.Count - 1)
+	}
+	
+	while($ChartControl.ChartAreas.Count -gt $count)
+	{
+		$ChartControl.ChartAreas.RemoveAt($ChartControl.ChartAreas.Count - 1)
+	}
+	
+	while($ChartControl.Titles.Count -gt $count)
+	{
+		$ChartControl.Titles.RemoveAt($ChartControl.Titles.Count - 1)
+	}
+	
+	if($ChartControl.Series.Count -gt 0)
+	{
+		$ChartControl.Series[0].Points.Clear()
+	}
+}
+#endregion
+]]></Code>
+  <Mode>0</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>
