@@ -954,7 +954,7 @@ Process
 			foreach ($dc in $dcs)
 			{
 				$dcalive = Test-Connection -Quiet -Count 1
-				if ($dcalive -eq $true)
+				if ($dcavlive -eq $true)
 				{
 					Write-Color -Text "Processing DC Service $($dc.name)" -Color Green
 					$Services = Get-Service -name ntds, adws, dns, dnscache, kdc, w32time, netlogon, dhcp -ComputerName $dc.name
