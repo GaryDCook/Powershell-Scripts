@@ -953,7 +953,7 @@ Process
 			$DCtime = @()
 			foreach ($dc in $dcs)
 			{
-				$dcalive = Test-Connection -Quiet -Count 1
+				$dcalive = Test-Connection -Quiet -Count 1 -ComputerName $dc.name
 				if ($dcalive -eq $true)
 				{
 					Write-Color -Text "Processing DC Service $($dc.name)" -Color Green
